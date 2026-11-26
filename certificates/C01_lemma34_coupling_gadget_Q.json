@@ -1,0 +1,52 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C01",
+  "mode": "sparse_gadgets_and_per_hc_det",
+  "submode": "lemma34_coupling_gadget",
+  "claim_ref": "Lemma 3.4 (p. 15): 3x3 permanent coupling gadget A over Q (per(A)=1, four 2x2 minors=0, A_33=1)",
+  "field_char": 0,
+  "gadget_matrix_A": [
+    [
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        -1,
+        2
+      ]
+    ],
+    [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  ]
+}

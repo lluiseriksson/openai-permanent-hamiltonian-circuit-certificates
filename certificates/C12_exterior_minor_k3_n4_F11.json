@@ -1,0 +1,31 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C12",
+  "mode": "cone_savings_and_exterior_minors",
+  "submode": "exterior_minor_tensor",
+  "claim_ref": "Sec. 8-9: 3x4 Vandermonde basis over F_11 yields 24 alternating nonzero 3x3 minors",
+  "prime_p": 11,
+  "order_k": 3,
+  "ambient_n": 4,
+  "basis_matrix_V": [
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      2,
+      3,
+      4
+    ],
+    [
+      1,
+      4,
+      9,
+      5
+    ]
+  ],
+  "expected_nonzero_entries": 24
+}

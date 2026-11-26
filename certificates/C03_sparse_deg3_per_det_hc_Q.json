@@ -1,0 +1,135 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C03",
+  "mode": "sparse_gadgets_and_per_hc_det",
+  "submode": "sparse_per_det_hc",
+  "claim_ref": "Sec. 1 & Cor. 3.5: 3-regular 5-vertex digraph over Q separates Per_5, Det_5, and HC_5",
+  "order_N": 5,
+  "max_degree_bound": 3,
+  "field_char": 0,
+  "matrix_X": [
+    [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  ],
+  "expected_per": [
+    13,
+    1
+  ],
+  "expected_det": [
+    3,
+    1
+  ],
+  "expected_hc": [
+    2,
+    1
+  ],
+  "expect_per_ne_det": true
+}

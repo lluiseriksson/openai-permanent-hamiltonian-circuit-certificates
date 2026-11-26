@@ -1,0 +1,85 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C09",
+  "mode": "cone_savings_and_exterior_minors",
+  "submode": "cone_cut_supplier_saving",
+  "claim_ref": "Sec. 3.2 Eq. (3.1)-(3.3): d=4 unit sites in R^2 with balanced 2|2 cut achieve linear saving 1",
+  "num_rows_d": 4,
+  "embed_dim": 2,
+  "unit_sites_x": [
+    [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ]
+  ],
+  "balanced_cut": [
+    1,
+    0,
+    1,
+    0
+  ],
+  "Z_0": [
+    [
+      -1,
+      4
+    ],
+    [
+      -1,
+      4
+    ]
+  ],
+  "Z_1": [
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      4
+    ]
+  ],
+  "step_tau": [
+    1,
+    2
+  ],
+  "expected_linear_saving": [
+    1,
+    1
+  ]
+}

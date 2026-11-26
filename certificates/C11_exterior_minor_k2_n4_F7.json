@@ -1,0 +1,25 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C11",
+  "mode": "cone_savings_and_exterior_minors",
+  "submode": "exterior_minor_tensor",
+  "claim_ref": "Sec. 8-9: 2x4 basis over F_7 yields 12 alternating nonzero minors satisfying Plucker relation",
+  "prime_p": 7,
+  "order_k": 2,
+  "ambient_n": 4,
+  "basis_matrix_V": [
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      2,
+      3,
+      4
+    ]
+  ],
+  "expected_nonzero_entries": 12
+}

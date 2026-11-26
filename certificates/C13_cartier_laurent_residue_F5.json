@@ -1,0 +1,34 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C13",
+  "mode": "cartier_residue_and_counting_diag",
+  "submode": "cartier_laurent_residue",
+  "claim_ref": "Sec. 18 over F_5: Cartier operator kills d(g) and extracts exact residue c_{-1}=3 despite order-6 pole",
+  "prime_p": 5,
+  "min_exp": -6,
+  "laurent_coeffs": [
+    2,
+    1,
+    4,
+    0,
+    2,
+    3,
+    1,
+    0,
+    4,
+    2,
+    1
+  ],
+  "expected_residue": 3,
+  "exact_derivative_poly_g": [
+    2,
+    0,
+    4,
+    0,
+    0,
+    1,
+    0,
+    0,
+    3
+  ]
+}

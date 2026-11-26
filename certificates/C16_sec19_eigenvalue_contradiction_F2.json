@@ -1,0 +1,128 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C16",
+  "mode": "cartier_residue_and_counting_diag",
+  "submode": "sec19_eigenvalue_contradiction",
+  "claim_ref": "Sec. 19 Eq. (19.1)-(19.2) over F_2: char-2 diagonalization forces contradiction gap Omega(H*)=1 != 0",
+  "prime_p": 2,
+  "dim_m": 4,
+  "H_star": 2,
+  "Omega": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "Z": [
+    1,
+    0,
+    1,
+    0
+  ],
+  "W_matrices": [
+    [
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ]
+    ],
+    [
+      [
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  ]
+}

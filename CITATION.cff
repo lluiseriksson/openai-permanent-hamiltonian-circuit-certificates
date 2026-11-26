@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Constructive Algebraic, Poincare, and Cartier-Residue Certificates for Permanent and Hamiltonian Cycle Circuit Lower Bounds"
+message: "If you use this software or certificate suite, please cite it as below."
+type: software
+authors:
+  - family-names: "Eriksson"
+    given-names: "Lluis"
+    email: "lluis@airr.science"
+version: "1.0.0"
+date-released: "2026-11-26"
+license: MIT
+repository-code: "https://github.com/lluiseriksson/openai-permanent-hamiltonian-circuit-certificates"

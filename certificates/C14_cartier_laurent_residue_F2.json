@@ -1,0 +1,26 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C14",
+  "mode": "cartier_residue_and_counting_diag",
+  "submode": "cartier_laurent_residue",
+  "claim_ref": "Sec. 18 over F_2: characteristic-2 Cartier operator kills d(g) and extracts residue c_{-1}=1 for HC_N",
+  "prime_p": 2,
+  "min_exp": -4,
+  "laurent_coeffs": [
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    1
+  ],
+  "expected_residue": 1,
+  "exact_derivative_poly_g": [
+    1,
+    1,
+    1,
+    0,
+    1
+  ]
+}

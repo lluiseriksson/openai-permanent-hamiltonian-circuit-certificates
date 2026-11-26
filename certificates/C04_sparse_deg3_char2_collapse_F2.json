@@ -1,0 +1,97 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C04",
+  "mode": "sparse_gadgets_and_per_hc_det",
+  "submode": "sparse_per_det_hc",
+  "claim_ref": "Sec. 1 over F_2: Per_4 = Det_4 mod 2 on 3-regular 4-vertex digraph while HC_4 is tracked separately",
+  "order_N": 4,
+  "max_degree_bound": 3,
+  "field_char": 2,
+  "matrix_X": [
+    [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  ],
+  "expected_per": [
+    1,
+    1
+  ],
+  "expected_det": [
+    1,
+    1
+  ],
+  "expected_hc": [
+    1,
+    1
+  ],
+  "expect_per_ne_det": false
+}

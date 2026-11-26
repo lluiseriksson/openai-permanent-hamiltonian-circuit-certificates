@@ -1,0 +1,6 @@
+{"version": "1.3.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "perm_hc_lb_cert",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

@@ -1,0 +1,7 @@
+name = "perm_hc_lb_cert"
+version = "0.1.0"
+defaultTargets = ["PermHcLbCert"]
+
+[[lean_lib]]
+name = "PermHcLbCert"
+moreLeanArgs = ["-j", "1"]

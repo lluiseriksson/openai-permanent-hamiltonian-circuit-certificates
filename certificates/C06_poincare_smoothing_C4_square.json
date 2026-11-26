@@ -1,0 +1,83 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C06",
+  "mode": "balanced_cut_and_poincare",
+  "submode": "poincare_and_barycentric_smoothing",
+  "claim_ref": "Lemma 4.1 & Thm. 4.2: 2-regular C_4 embedded as unit square has exact Poincare ratio 1 and obeys Eq. (4.1)",
+  "num_vertices_n": 4,
+  "degree_d": 2,
+  "smoothing_t": 4,
+  "adjacency_counts": [
+    [
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0
+    ]
+  ],
+  "embed_dim": 2,
+  "placement_x": [
+    [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  ],
+  "expected_poincare_ratio": [
+    1,
+    1
+  ]
+}

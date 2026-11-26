@@ -1,0 +1,139 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C10",
+  "mode": "cone_savings_and_exterior_minors",
+  "submode": "cone_cut_supplier_saving",
+  "claim_ref": "Sec. 3.2 Eq. (3.1)-(3.3): d=6 octahedron sites in R^3 with balanced 3|3 cut achieve linear saving 3/2",
+  "num_rows_d": 6,
+  "embed_dim": 3,
+  "unit_sites_x": [
+    [
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ]
+  ],
+  "balanced_cut": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+  ],
+  "Z_0": [
+    [
+      -1,
+      4
+    ],
+    [
+      -1,
+      4
+    ],
+    [
+      -1,
+      4
+    ]
+  ],
+  "Z_1": [
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      4
+    ]
+  ],
+  "step_tau": [
+    1,
+    2
+  ],
+  "expected_linear_saving": [
+    3,
+    2
+  ]
+}

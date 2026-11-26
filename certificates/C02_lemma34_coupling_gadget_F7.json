@@ -1,0 +1,52 @@
+{
+  "schema": "PERM-HC-LB-CERT-1.0",
+  "certificate_id": "C02",
+  "mode": "sparse_gadgets_and_per_hc_det",
+  "submode": "lemma34_coupling_gadget",
+  "claim_ref": "Lemma 3.4 over F_7: odd-characteristic validity of coupling gadget A (inv(2)=4 mod 7)",
+  "field_char": 7,
+  "gadget_matrix_A": [
+    [
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        -1,
+        2
+      ]
+    ],
+    [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  ]
+}
